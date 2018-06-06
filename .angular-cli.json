@@ -19,6 +19,9 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "assets/css/bootstrap-reboot.min.css",
+        "assets/css/bootstrap-grid.min.css",
+        "assets/css/bootstrap.min.css",
         "styles.scss"
       ],
       "scripts": [],
